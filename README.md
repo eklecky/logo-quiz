@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-Logo Quiz 👍
+# Logo Quiz 👍
 
 ## Available Scripts
 
